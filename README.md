@@ -1,20 +1,19 @@
 # What makes wine "good"?
 Exploration of wine characteristics to understand what attributes make wine good. 
 
-Available data
-# fixed acidity: tartaric acid, most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
-# volatile acidity: acetic acid, too high of levels can lead to an unpleasant, vinegar taste
-# citric acid: found in small quantities, citric acid can add 'freshness' and flavor to wines
-# astrigency rating: sensory attribute described as drying-out, roughening, and puckery sensation
-# residual sugar: the amount of sugar remaining after fermentation stops
-# chlorides: amount of salt in the wine
-# free sulfur dioxide: prevents microbial growth and the oxidation of wine
-# total sulfur dioxide: in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
-# density: depends on the percent alcohol and sugar content
-# pH: describes how acidic or basic a wine is
-# sulphates: antimicrobial and antioxidant
-# alcohol: percent alcohol content
-# vintage: year made
+fixed acidity: tartaric acid, most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
+volatile acidity: acetic acid, too high of levels can lead to an unpleasant, vinegar taste
+citric acid: found in small quantities, citric acid can add 'freshness' and flavor to wines
+astrigency rating: sensory attribute described as drying-out, roughening, and puckery sensation
+residual sugar: the amount of sugar remaining after fermentation stops
+chlorides: amount of salt in the wine
+free sulfur dioxide: prevents microbial growth and the oxidation of wine
+total sulfur dioxide: in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
+density: depends on the percent alcohol and sugar content
+pH: describes how acidic or basic a wine is
+sulphates: antimicrobial and antioxidant
+alcohol: percent alcohol content
+vintage: year made
 
 Resulting ordinal logistic regression models (analyzing red and white wine separately)
 
