@@ -1,5 +1,7 @@
 # What makes wine "good"?
-Exploration of wine characteristics to understand what attributes make wine good. 
+Exploration of wine characteristics to understand what attributes make wine good.
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 - fixed acidity: tartaric acid, most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
 - volatile acidity: acetic acid, too high of levels can lead to an unpleasant, vinegar taste
